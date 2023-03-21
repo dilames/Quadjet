@@ -1,0 +1,20 @@
+PODS:
+  - atlantis-proxyman (1.18.0)
+  - DJI-SDK-iOS (4.16.2)
+
+DEPENDENCIES:
+  - atlantis-proxyman (= 1.18.0)
+  - DJI-SDK-iOS
+
+SPEC REPOS:
+  trunk:
+    - atlantis-proxyman
+    - DJI-SDK-iOS
+
+SPEC CHECKSUMS:
+  atlantis-proxyman: 5ea31297fad1fa49009c46e3f0f36a85174330ca
+  DJI-SDK-iOS: 44308a021c3b95a912be52c4e7a8e0a27e5434f5
+
+PODFILE CHECKSUM: 3ba7e94b1975a355c4b766ea113dd13ea9d99ab0
+
+COCOAPODS: 1.12.0

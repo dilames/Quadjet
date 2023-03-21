@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Quadjet/Pods-Quadjet-frameworks.sh
+${PODS_ROOT}/DJI-SDK-iOS/iOS_Mobile_SDK/DJISDK.framework
+${BUILT_PRODUCTS_DIR}/atlantis-proxyman/Atlantis.framework
